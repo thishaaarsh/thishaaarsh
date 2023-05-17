@@ -1,3 +1,4 @@
+<img align="center" src="Harsh Jain.png" width="100%">
 ### Hi there 👋
 
 
