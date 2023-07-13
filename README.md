@@ -65,7 +65,7 @@ Here are some ideas to get you started:
     <td><img src="https://github-readme-stats.vercel.app/api?username=thishaaarsh&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thishaaarsh&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
-  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?username=thishaaarsh&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
+  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=thishaaarsh&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
    <tr><td>😀</td></tr>
 </table>
     
