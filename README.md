@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/harsh-jain-00a074211/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/tejeshjain"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+<!-- <a href = "https://twitter.com/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/TejeshJain/github-profile-views-counter">
+<a href="https://github.com/thishaaarsh/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=thishaaarsh">
 </a>
-<a href="https://github.com/thishaaarsh?tab=followers"><img src="https://img.shields.io/github/followers/TejeshJain?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/thishaaarsh?tab=followers"><img src="https://img.shields.io/github/followers/thishaaarsh?label=Followers&style=social" alt="GitHub Badge"></a>
 
   
 <hr>
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tthishaaarshtheme=monokai"  display=block width=100% height=auto  alt="1" >
    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thishaaarsh&bg_color=4b4d81&color=fcfcfc&line=45e8e5&point=78d756&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thishaaarsh&bg_color=4b4d81&color=fcfcfc&line=45e8e5&point=78d756&area=true&hide_border=true)](https://github.com/thishaaarsh/github-readme-activity-graph)
 <!--
 **thishaaarsh/thishaaarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
