@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     
  <h2 align="center">Productivity Stats📈 !! 😊</h2>
  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tthishaaarshtheme=monokai"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thishaaarsh&theme=monokai"  display=block width=100% height=auto  alt="1" >
    
 [![Harsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=thishaaarsh&bg_color=4b4d81&color=fcfcfc&line=45e8e5&point=78d756&area=true&hide_border=true)](https://github.com/thishaaarsh/github-readme-activity-graph)
 <!--
